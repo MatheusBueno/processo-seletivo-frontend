@@ -32,6 +32,8 @@ Utilizando **Nextjs**, siga os passos abaixo 🎯
 
 Os assets estão na pasta assets desse repo
 
+Os ícones dos inputs podem ser utilizados da lib [Feather Icons](https://github.com/feathericons/react-feather)
+
 Fique à vontade para utilizar bibliotecas
 
 [Link para tela de cadastro](https://maisretorno.com/cadastro)
